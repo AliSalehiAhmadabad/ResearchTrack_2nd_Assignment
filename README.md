@@ -39,7 +39,13 @@ implements a server to retrieve the distance of the robot from the target and th
   --------------------------------------------------------
   ## Flowchart for node_a (ActionClient node)
   ![flowchart](https://github.com/AliSalehiAhmadabad/ResearchTrack_2nd_Assignment/assets/150590478/4d926e7a-50a0-4648-ab53-b849662b81d3)
+  *Figure1*
   
+  --------------------------------------------------------
+  ## Rqt graph
+  ![rqt_graph](https://github.com/AliSalehiAhmadabad/ResearchTrack_2nd_Assignment/assets/150590478/a8ca2564-1d39-4466-a638-99f45be7839e)
+  *Figure2*
+
 
   
   
