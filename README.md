@@ -24,4 +24,19 @@ implements a server to retrieve the distance of the robot from the target and th
 
 - Create a launch file to start the whole simulation. Use a parameter to select the size of the averaging window of node (c)
 
+  --------------------------------------------------------
+  Abstract:
+
+  1) We need to clone the repository of the question (https://github.com/CarmineD8/assignment_2_2023) that involves some scripts for robot movement, action files, gazebo and Rviz interfaces, ...
+  2) We need to write 3 nodes as the question requires and put them in the scripts folder
+  3) We need to write some msg and srv files (here we create 1 msg and 2 srv files)
+  4) We need to modify the launch file
+  5) We need to modify the CMakelist file to define msg and services that we wrote
+  6) We need to make our codes executable
+  7) We need to run this comment in the scripts folder terminal: $apt-get -y install xterm
+  8) Finally in the package folder terminal we need to run this comment: $roslaunch assignment_2_2023 assignment1.launch
+ 
+  --------------------------------------------------------
+  
+
 
